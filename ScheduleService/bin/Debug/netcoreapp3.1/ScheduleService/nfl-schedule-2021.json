@@ -1,0 +1,2450 @@
+[
+    {
+        "Match": "16",
+        "round": "1",
+        "gamedate": "2021-09-10 10:20",
+        "League": "NFL",
+        "HomeTeam": "TB",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "7",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "JJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "8",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "Washington Football Team",
+        "AwayTeam": "LC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "9",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "10",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "CP",
+        "AwayTeam": "NJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "11",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "12",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "13",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "DL",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "14",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "PS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "15",
+        "round": "1",
+        "gamedate": "2021-09-13 03:00",
+        "League": "NFL",
+        "HomeTeam": "AF",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "3",
+        "round": "1",
+        "gamedate": "2021-09-13 06:25",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "CL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "4",
+        "round": "1",
+        "gamedate": "2021-09-13 06:25",
+        "League": "NFL",
+        "HomeTeam": "NO",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "5",
+        "round": "1",
+        "gamedate": "2021-09-13 06:25",
+        "League": "NFL",
+        "HomeTeam": "NG",
+        "AwayTeam": "DB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "6",
+        "round": "1",
+        "gamedate": "2021-09-13 06:25",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "MD",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "2",
+        "round": "1",
+        "gamedate": "2021-09-13 10:20",
+        "League": "NFL",
+        "HomeTeam": "LR",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "1",
+        "round": "1",
+        "gamedate": "2021-09-14 10:15",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "BR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "32",
+        "round": "2",
+        "gamedate": "2021-09-17 10:20",
+        "League": "NFL",
+        "HomeTeam": "Washington Football Team",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "23",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "NE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "24",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "DB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "25",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "BB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "26",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "PE",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "27",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "28",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "OR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "29",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "CH",
+        "AwayTeam": "CI",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "30",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "HT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "31",
+        "round": "2",
+        "gamedate": "2021-09-20 03:00",
+        "League": "NFL",
+        "HomeTeam": "CP",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "21",
+        "round": "2",
+        "gamedate": "2021-09-20 06:05",
+        "League": "NFL",
+        "HomeTeam": "AC",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "22",
+        "round": "2",
+        "gamedate": "2021-09-20 06:05",
+        "League": "NFL",
+        "HomeTeam": "TB",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "19",
+        "round": "2",
+        "gamedate": "2021-09-20 06:25",
+        "League": "NFL",
+        "HomeTeam": "SS",
+        "AwayTeam": "TT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "20",
+        "round": "2",
+        "gamedate": "2021-09-20 06:25",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "18",
+        "round": "2",
+        "gamedate": "2021-09-20 10:20",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "KC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "17",
+        "round": "2",
+        "gamedate": "2021-09-21 10:15",
+        "League": "NFL",
+        "HomeTeam": "GB",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "48",
+        "round": "3",
+        "gamedate": "2021-09-24 10:20",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "39",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "IC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "40",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "NG",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "41",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "LC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "42",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "CI",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "43",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "44",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "DL",
+        "AwayTeam": "BR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "45",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "46",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "47",
+        "round": "3",
+        "gamedate": "2021-09-27 03:00",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "37",
+        "round": "3",
+        "gamedate": "2021-09-27 06:05",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "NJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "38",
+        "round": "3",
+        "gamedate": "2021-09-27 06:05",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "MD",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "35",
+        "round": "3",
+        "gamedate": "2021-09-27 06:25",
+        "League": "NFL",
+        "HomeTeam": "MV",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "36",
+        "round": "3",
+        "gamedate": "2021-09-27 06:25",
+        "League": "NFL",
+        "HomeTeam": "LR",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "34",
+        "round": "3",
+        "gamedate": "2021-09-27 10:20",
+        "League": "NFL",
+        "HomeTeam": "SF",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "33",
+        "round": "3",
+        "gamedate": "2021-09-28 10:15",
+        "League": "NFL",
+        "HomeTeam": "DC",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "64",
+        "round": "4",
+        "gamedate": "2021-10-01 10:20",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "JJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "55",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "TT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "56",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "PE",
+        "AwayTeam": "KC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "57",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "DC",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "58",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "NO",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "59",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "MV",
+        "AwayTeam": "CL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "60",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "CH",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "61",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "HT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "62",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "IC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "63",
+        "round": "4",
+        "gamedate": "2021-10-04 04:00",
+        "League": "NFL",
+        "HomeTeam": "AF",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "53",
+        "round": "4",
+        "gamedate": "2021-10-04 07:05",
+        "League": "NFL",
+        "HomeTeam": "SF",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "54",
+        "round": "4",
+        "gamedate": "2021-10-04 07:05",
+        "League": "NFL",
+        "HomeTeam": "LR",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "51",
+        "round": "4",
+        "gamedate": "2021-10-04 07:25",
+        "League": "NFL",
+        "HomeTeam": "GB",
+        "AwayTeam": "PS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "52",
+        "round": "4",
+        "gamedate": "2021-10-04 07:25",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "BR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "50",
+        "round": "4",
+        "gamedate": "2021-10-04 11:20",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "49",
+        "round": "4",
+        "gamedate": "2021-10-05 11:15",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "OR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "80",
+        "round": "5",
+        "gamedate": "2021-10-08 11:20",
+        "League": "NFL",
+        "HomeTeam": "SS",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "79",
+        "round": "5",
+        "gamedate": "2021-10-11 00:30",
+        "League": "NFL",
+        "HomeTeam": "AF",
+        "AwayTeam": "NJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "71",
+        "round": "5",
+        "gamedate": "2021-10-11 04:00",
+        "League": "NFL",
+        "HomeTeam": "MV",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "72",
+        "round": "5",
+        "gamedate": "2021-10-11 04:00",
+        "League": "NFL",
+        "HomeTeam": "Washington Football Team",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "73",
+        "round": "5",
+        "gamedate": "2021-10-11 04:00",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "NE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "74",
+        "round": "5",
+        "gamedate": "2021-10-11 04:00",
+        "League": "NFL",
+        "HomeTeam": "TB",
+        "AwayTeam": "MD",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "75",
+        "round": "5",
+        "gamedate": "2021-10-11 04:00",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "76",
+        "round": "5",
+        "gamedate": "2021-10-11 04:00",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "DB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "77",
+        "round": "5",
+        "gamedate": "2021-10-11 04:00",
+        "League": "NFL",
+        "HomeTeam": "CP",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "78",
+        "round": "5",
+        "gamedate": "2021-10-11 04:00",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "TT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "69",
+        "round": "5",
+        "gamedate": "2021-10-11 07:05",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "CL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "70",
+        "round": "5",
+        "gamedate": "2021-10-11 07:05",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "67",
+        "round": "5",
+        "gamedate": "2021-10-11 07:25",
+        "League": "NFL",
+        "HomeTeam": "AC",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "68",
+        "round": "5",
+        "gamedate": "2021-10-11 07:25",
+        "League": "NFL",
+        "HomeTeam": "DC",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "66",
+        "round": "5",
+        "gamedate": "2021-10-11 11:20",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "BB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "65",
+        "round": "5",
+        "gamedate": "2021-10-12 11:15",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "IC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "94",
+        "round": "6",
+        "gamedate": "2021-10-15 11:20",
+        "League": "NFL",
+        "HomeTeam": "PE",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "93",
+        "round": "6",
+        "gamedate": "2021-10-18 00:30",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "MD",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "86",
+        "round": "6",
+        "gamedate": "2021-10-18 04:00",
+        "League": "NFL",
+        "HomeTeam": "Washington Football Team",
+        "AwayTeam": "KC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "87",
+        "round": "6",
+        "gamedate": "2021-10-18 04:00",
+        "League": "NFL",
+        "HomeTeam": "NG",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "88",
+        "round": "6",
+        "gamedate": "2021-10-18 04:00",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "HT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "89",
+        "round": "6",
+        "gamedate": "2021-10-18 04:00",
+        "League": "NFL",
+        "HomeTeam": "DL",
+        "AwayTeam": "CI",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "90",
+        "round": "6",
+        "gamedate": "2021-10-18 04:00",
+        "League": "NFL",
+        "HomeTeam": "CH",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "91",
+        "round": "6",
+        "gamedate": "2021-10-18 04:00",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "LC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "92",
+        "round": "6",
+        "gamedate": "2021-10-18 04:00",
+        "League": "NFL",
+        "HomeTeam": "CP",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "85",
+        "round": "6",
+        "gamedate": "2021-10-18 07:05",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "83",
+        "round": "6",
+        "gamedate": "2021-10-18 07:25",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "OR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "84",
+        "round": "6",
+        "gamedate": "2021-10-18 07:25",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "82",
+        "round": "6",
+        "gamedate": "2021-10-18 11:20",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "81",
+        "round": "6",
+        "gamedate": "2021-10-19 11:15",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "BB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "107",
+        "round": "7",
+        "gamedate": "2021-10-22 11:20",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "DB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "101",
+        "round": "7",
+        "gamedate": "2021-10-25 04:00",
+        "League": "NFL",
+        "HomeTeam": "NG",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "102",
+        "round": "7",
+        "gamedate": "2021-10-25 04:00",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "NJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "103",
+        "round": "7",
+        "gamedate": "2021-10-25 04:00",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "KC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "104",
+        "round": "7",
+        "gamedate": "2021-10-25 04:00",
+        "League": "NFL",
+        "HomeTeam": "GB",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "105",
+        "round": "7",
+        "gamedate": "2021-10-25 04:00",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "106",
+        "round": "7",
+        "gamedate": "2021-10-25 04:00",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "CI",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "99",
+        "round": "7",
+        "gamedate": "2021-10-25 07:05",
+        "League": "NFL",
+        "HomeTeam": "LR",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "100",
+        "round": "7",
+        "gamedate": "2021-10-25 07:05",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "97",
+        "round": "7",
+        "gamedate": "2021-10-25 07:25",
+        "League": "NFL",
+        "HomeTeam": "AC",
+        "AwayTeam": "HT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "98",
+        "round": "7",
+        "gamedate": "2021-10-25 07:25",
+        "League": "NFL",
+        "HomeTeam": "TB",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "96",
+        "round": "7",
+        "gamedate": "2021-10-25 11:20",
+        "League": "NFL",
+        "HomeTeam": "SF",
+        "AwayTeam": "IC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "95",
+        "round": "7",
+        "gamedate": "2021-10-26 11:15",
+        "League": "NFL",
+        "HomeTeam": "SS",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "122",
+        "round": "8",
+        "gamedate": "2021-10-29 11:20",
+        "League": "NFL",
+        "HomeTeam": "AC",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "114",
+        "round": "8",
+        "gamedate": "2021-11-01 04:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "CI",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "115",
+        "round": "8",
+        "gamedate": "2021-11-01 04:00",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "TT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "116",
+        "round": "8",
+        "gamedate": "2021-11-01 04:00",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "117",
+        "round": "8",
+        "gamedate": "2021-11-01 04:00",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "PS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "118",
+        "round": "8",
+        "gamedate": "2021-11-01 04:00",
+        "League": "NFL",
+        "HomeTeam": "DL",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "119",
+        "round": "8",
+        "gamedate": "2021-11-01 04:00",
+        "League": "NFL",
+        "HomeTeam": "CH",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "120",
+        "round": "8",
+        "gamedate": "2021-11-01 04:00",
+        "League": "NFL",
+        "HomeTeam": "AF",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "121",
+        "round": "8",
+        "gamedate": "2021-11-01 04:00",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "MD",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "112",
+        "round": "8",
+        "gamedate": "2021-11-01 07:05",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "NE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "113",
+        "round": "8",
+        "gamedate": "2021-11-01 07:05",
+        "League": "NFL",
+        "HomeTeam": "SS",
+        "AwayTeam": "JJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "110",
+        "round": "8",
+        "gamedate": "2021-11-01 07:25",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "111",
+        "round": "8",
+        "gamedate": "2021-11-01 07:25",
+        "League": "NFL",
+        "HomeTeam": "NO",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "109",
+        "round": "8",
+        "gamedate": "2021-11-01 11:20",
+        "League": "NFL",
+        "HomeTeam": "MV",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "108",
+        "round": "8",
+        "gamedate": "2021-11-02 11:15",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "136",
+        "round": "9",
+        "gamedate": "2021-11-05 11:20",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "NJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "128",
+        "round": "9",
+        "gamedate": "2021-11-08 05:00",
+        "League": "NFL",
+        "HomeTeam": "NO",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "129",
+        "round": "9",
+        "gamedate": "2021-11-08 05:00",
+        "League": "NFL",
+        "HomeTeam": "DC",
+        "AwayTeam": "DB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "130",
+        "round": "9",
+        "gamedate": "2021-11-08 05:00",
+        "League": "NFL",
+        "HomeTeam": "CP",
+        "AwayTeam": "NE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "131",
+        "round": "9",
+        "gamedate": "2021-11-08 05:00",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "132",
+        "round": "9",
+        "gamedate": "2021-11-08 05:00",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "CL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "133",
+        "round": "9",
+        "gamedate": "2021-11-08 05:00",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "BB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "134",
+        "round": "9",
+        "gamedate": "2021-11-08 05:00",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "HT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "135",
+        "round": "9",
+        "gamedate": "2021-11-08 05:00",
+        "League": "NFL",
+        "HomeTeam": "NG",
+        "AwayTeam": "OR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "127",
+        "round": "9",
+        "gamedate": "2021-11-08 08:05",
+        "League": "NFL",
+        "HomeTeam": "PE",
+        "AwayTeam": "LC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "125",
+        "round": "9",
+        "gamedate": "2021-11-08 08:25",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "126",
+        "round": "9",
+        "gamedate": "2021-11-08 08:25",
+        "League": "NFL",
+        "HomeTeam": "SF",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "124",
+        "round": "9",
+        "gamedate": "2021-11-08 12:20",
+        "League": "NFL",
+        "HomeTeam": "LR",
+        "AwayTeam": "TT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "123",
+        "round": "9",
+        "gamedate": "2021-11-09 12:15",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "150",
+        "round": "10",
+        "gamedate": "2021-11-12 12:20",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "BR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "143",
+        "round": "10",
+        "gamedate": "2021-11-15 05:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "BB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "144",
+        "round": "10",
+        "gamedate": "2021-11-15 05:00",
+        "League": "NFL",
+        "HomeTeam": "Washington Football Team",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "145",
+        "round": "10",
+        "gamedate": "2021-11-15 05:00",
+        "League": "NFL",
+        "HomeTeam": "DC",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "146",
+        "round": "10",
+        "gamedate": "2021-11-15 05:00",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "147",
+        "round": "10",
+        "gamedate": "2021-11-15 05:00",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "JJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "148",
+        "round": "10",
+        "gamedate": "2021-11-15 05:00",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "149",
+        "round": "10",
+        "gamedate": "2021-11-15 05:00",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "CL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "141",
+        "round": "10",
+        "gamedate": "2021-11-15 08:05",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "142",
+        "round": "10",
+        "gamedate": "2021-11-15 08:05",
+        "League": "NFL",
+        "HomeTeam": "AC",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "139",
+        "round": "10",
+        "gamedate": "2021-11-15 08:25",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "140",
+        "round": "10",
+        "gamedate": "2021-11-15 08:25",
+        "League": "NFL",
+        "HomeTeam": "GB",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "138",
+        "round": "10",
+        "gamedate": "2021-11-15 12:20",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "KC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "137",
+        "round": "10",
+        "gamedate": "2021-11-16 12:15",
+        "League": "NFL",
+        "HomeTeam": "SF",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "165",
+        "round": "11",
+        "gamedate": "2021-11-19 12:20",
+        "League": "NFL",
+        "HomeTeam": "AF",
+        "AwayTeam": "NE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "156",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "PE",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "157",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "MD",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "158",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "CP",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "159",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "IC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "160",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "161",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "162",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "HT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "163",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "MV",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "164",
+        "round": "11",
+        "gamedate": "2021-11-22 05:00",
+        "League": "NFL",
+        "HomeTeam": "CH",
+        "AwayTeam": "BR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "155",
+        "round": "11",
+        "gamedate": "2021-11-22 08:05",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "CI",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "153",
+        "round": "11",
+        "gamedate": "2021-11-22 08:25",
+        "League": "NFL",
+        "HomeTeam": "SS",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "154",
+        "round": "11",
+        "gamedate": "2021-11-22 08:25",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "152",
+        "round": "11",
+        "gamedate": "2021-11-22 12:20",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "PS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "151",
+        "round": "11",
+        "gamedate": "2021-11-23 12:15",
+        "League": "NFL",
+        "HomeTeam": "TB",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "180",
+        "round": "12",
+        "gamedate": "2021-11-26 04:30",
+        "League": "NFL",
+        "HomeTeam": "DL",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "179",
+        "round": "12",
+        "gamedate": "2021-11-26 08:30",
+        "League": "NFL",
+        "HomeTeam": "DC",
+        "AwayTeam": "OR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "178",
+        "round": "12",
+        "gamedate": "2021-11-26 12:20",
+        "League": "NFL",
+        "HomeTeam": "NO",
+        "AwayTeam": "BB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "171",
+        "round": "12",
+        "gamedate": "2021-11-29 05:00",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "172",
+        "round": "12",
+        "gamedate": "2021-11-29 05:00",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "NJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "173",
+        "round": "12",
+        "gamedate": "2021-11-29 05:00",
+        "League": "NFL",
+        "HomeTeam": "NG",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "174",
+        "round": "12",
+        "gamedate": "2021-11-29 05:00",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "175",
+        "round": "12",
+        "gamedate": "2021-11-29 05:00",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "TT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "176",
+        "round": "12",
+        "gamedate": "2021-11-29 05:00",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "PS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "177",
+        "round": "12",
+        "gamedate": "2021-11-29 05:00",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "170",
+        "round": "12",
+        "gamedate": "2021-11-29 08:05",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "LC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "168",
+        "round": "12",
+        "gamedate": "2021-11-29 08:25",
+        "League": "NFL",
+        "HomeTeam": "GB",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "169",
+        "round": "12",
+        "gamedate": "2021-11-29 08:25",
+        "League": "NFL",
+        "HomeTeam": "SF",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "167",
+        "round": "12",
+        "gamedate": "2021-11-29 12:20",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "CL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "166",
+        "round": "12",
+        "gamedate": "2021-11-30 12:15",
+        "League": "NFL",
+        "HomeTeam": "Washington Football Team",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "194",
+        "round": "13",
+        "gamedate": "2021-12-03 12:20",
+        "League": "NFL",
+        "HomeTeam": "NO",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "186",
+        "round": "13",
+        "gamedate": "2021-12-06 05:00",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "187",
+        "round": "13",
+        "gamedate": "2021-12-06 05:00",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "IC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "188",
+        "round": "13",
+        "gamedate": "2021-12-06 05:00",
+        "League": "NFL",
+        "HomeTeam": "DL",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "189",
+        "round": "13",
+        "gamedate": "2021-12-06 05:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "190",
+        "round": "13",
+        "gamedate": "2021-12-06 05:00",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "DB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "191",
+        "round": "13",
+        "gamedate": "2021-12-06 05:00",
+        "League": "NFL",
+        "HomeTeam": "CH",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "192",
+        "round": "13",
+        "gamedate": "2021-12-06 05:00",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "LC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "193",
+        "round": "13",
+        "gamedate": "2021-12-06 05:00",
+        "League": "NFL",
+        "HomeTeam": "AF",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "185",
+        "round": "13",
+        "gamedate": "2021-12-06 08:05",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "183",
+        "round": "13",
+        "gamedate": "2021-12-06 08:25",
+        "League": "NFL",
+        "HomeTeam": "LR",
+        "AwayTeam": "JJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "184",
+        "round": "13",
+        "gamedate": "2021-12-06 08:25",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "BR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "182",
+        "round": "13",
+        "gamedate": "2021-12-06 12:20",
+        "League": "NFL",
+        "HomeTeam": "SS",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "181",
+        "round": "13",
+        "gamedate": "2021-12-07 12:15",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "NE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "208",
+        "round": "14",
+        "gamedate": "2021-12-10 12:20",
+        "League": "NFL",
+        "HomeTeam": "MV",
+        "AwayTeam": "PS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "200",
+        "round": "14",
+        "gamedate": "2021-12-13 05:00",
+        "League": "NFL",
+        "HomeTeam": "Washington Football Team",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "201",
+        "round": "14",
+        "gamedate": "2021-12-13 05:00",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "202",
+        "round": "14",
+        "gamedate": "2021-12-13 05:00",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "JJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "203",
+        "round": "14",
+        "gamedate": "2021-12-13 05:00",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "204",
+        "round": "14",
+        "gamedate": "2021-12-13 05:00",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "OR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "205",
+        "round": "14",
+        "gamedate": "2021-12-13 05:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "206",
+        "round": "14",
+        "gamedate": "2021-12-13 05:00",
+        "League": "NFL",
+        "HomeTeam": "CP",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "207",
+        "round": "14",
+        "gamedate": "2021-12-13 05:00",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "BR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "198",
+        "round": "14",
+        "gamedate": "2021-12-13 08:05",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "199",
+        "round": "14",
+        "gamedate": "2021-12-13 08:05",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "197",
+        "round": "14",
+        "gamedate": "2021-12-13 08:25",
+        "League": "NFL",
+        "HomeTeam": "TB",
+        "AwayTeam": "BB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "196",
+        "round": "14",
+        "gamedate": "2021-12-13 12:20",
+        "League": "NFL",
+        "HomeTeam": "GB",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "195",
+        "round": "14",
+        "gamedate": "2021-12-14 12:15",
+        "League": "NFL",
+        "HomeTeam": "AC",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "224",
+        "round": "15",
+        "gamedate": "2021-12-17 12:20",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "KC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "209",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "NJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "210",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "PE",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "211",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "OR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "212",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "213",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "NE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "219",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "NG",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "220",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "HT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "221",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "TT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "222",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "223",
+        "round": "15",
+        "gamedate": "2021-12-20 05:00",
+        "League": "NFL",
+        "HomeTeam": "DL",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "217",
+        "round": "15",
+        "gamedate": "2021-12-20 08:05",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "CI",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "218",
+        "round": "15",
+        "gamedate": "2021-12-20 08:05",
+        "League": "NFL",
+        "HomeTeam": "SF",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "216",
+        "round": "15",
+        "gamedate": "2021-12-20 08:25",
+        "League": "NFL",
+        "HomeTeam": "LR",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "215",
+        "round": "15",
+        "gamedate": "2021-12-20 12:20",
+        "League": "NFL",
+        "HomeTeam": "TB",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "214",
+        "round": "15",
+        "gamedate": "2021-12-21 12:15",
+        "League": "NFL",
+        "HomeTeam": "CH",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "240",
+        "round": "16",
+        "gamedate": "2021-12-24 12:20",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "239",
+        "round": "16",
+        "gamedate": "2021-12-26 08:30",
+        "League": "NFL",
+        "HomeTeam": "GB",
+        "AwayTeam": "CL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "238",
+        "round": "16",
+        "gamedate": "2021-12-26 12:15",
+        "League": "NFL",
+        "HomeTeam": "AC",
+        "AwayTeam": "IC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "230",
+        "round": "16",
+        "gamedate": "2021-12-27 05:00",
+        "League": "NFL",
+        "HomeTeam": "PE",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "231",
+        "round": "16",
+        "gamedate": "2021-12-27 05:00",
+        "League": "NFL",
+        "HomeTeam": "MV",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "232",
+        "round": "16",
+        "gamedate": "2021-12-27 05:00",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "BB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "233",
+        "round": "16",
+        "gamedate": "2021-12-27 05:00",
+        "League": "NFL",
+        "HomeTeam": "CP",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "234",
+        "round": "16",
+        "gamedate": "2021-12-27 05:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "JJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "235",
+        "round": "16",
+        "gamedate": "2021-12-27 05:00",
+        "League": "NFL",
+        "HomeTeam": "AF",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "236",
+        "round": "16",
+        "gamedate": "2021-12-27 05:00",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "LC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "237",
+        "round": "16",
+        "gamedate": "2021-12-27 05:00",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "BR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "229",
+        "round": "16",
+        "gamedate": "2021-12-27 08:05",
+        "League": "NFL",
+        "HomeTeam": "SS",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "227",
+        "round": "16",
+        "gamedate": "2021-12-27 08:25",
+        "League": "NFL",
+        "HomeTeam": "KC",
+        "AwayTeam": "PS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "228",
+        "round": "16",
+        "gamedate": "2021-12-27 08:25",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "DB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "226",
+        "round": "16",
+        "gamedate": "2021-12-27 12:20",
+        "League": "NFL",
+        "HomeTeam": "DC",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "225",
+        "round": "16",
+        "gamedate": "2021-12-28 12:15",
+        "League": "NFL",
+        "HomeTeam": "NO",
+        "AwayTeam": "MD",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "247",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "Washington Football Team",
+        "AwayTeam": "PE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "248",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "NO",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "249",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "NJ",
+        "AwayTeam": "TB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "250",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "TT",
+        "AwayTeam": "MD",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "251",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "NE",
+        "AwayTeam": "JJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "252",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "IC",
+        "AwayTeam": "OR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "253",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "CI",
+        "AwayTeam": "KC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "254",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "CH",
+        "AwayTeam": "NG",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "255",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "AF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "256",
+        "round": "17",
+        "gamedate": "2022-01-03 05:00",
+        "League": "NFL",
+        "HomeTeam": "DC",
+        "AwayTeam": "AC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "245",
+        "round": "17",
+        "gamedate": "2022-01-03 08:05",
+        "League": "NFL",
+        "HomeTeam": "SF",
+        "AwayTeam": "HT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "246",
+        "round": "17",
+        "gamedate": "2022-01-03 08:05",
+        "League": "NFL",
+        "HomeTeam": "LC",
+        "AwayTeam": "DB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "243",
+        "round": "17",
+        "gamedate": "2022-01-03 08:25",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "LR",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "244",
+        "round": "17",
+        "gamedate": "2022-01-03 08:25",
+        "League": "NFL",
+        "HomeTeam": "SS",
+        "AwayTeam": "DL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "242",
+        "round": "17",
+        "gamedate": "2022-01-03 12:20",
+        "League": "NFL",
+        "HomeTeam": "GB",
+        "AwayTeam": "MV",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "241",
+        "round": "17",
+        "gamedate": "2022-01-04 12:15",
+        "League": "NFL",
+        "HomeTeam": "PS",
+        "AwayTeam": "CL",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "261",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "PE",
+        "AwayTeam": "DC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "262",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "DL",
+        "AwayTeam": "GB",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "263",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "JJ",
+        "AwayTeam": "IC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "264",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "NG",
+        "AwayTeam": "Washington Football Team",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "265",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "MV",
+        "AwayTeam": "CH",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "266",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "TB",
+        "AwayTeam": "CP",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "267",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "MD",
+        "AwayTeam": "NE",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "268",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "AF",
+        "AwayTeam": "NO",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "269",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "HT",
+        "AwayTeam": "TT",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "270",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "BR",
+        "AwayTeam": "PS",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "271",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "BB",
+        "AwayTeam": "NJ",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "272",
+        "round": "18",
+        "gamedate": "2022-01-10 05:00",
+        "League": "NFL",
+        "HomeTeam": "CL",
+        "AwayTeam": "CI",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "257",
+        "round": "18",
+        "gamedate": "2022-01-10 08:25",
+        "League": "NFL",
+        "HomeTeam": "OR",
+        "AwayTeam": "LC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "258",
+        "round": "18",
+        "gamedate": "2022-01-10 08:25",
+        "League": "NFL",
+        "HomeTeam": "LR",
+        "AwayTeam": "SF",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "259",
+        "round": "18",
+        "gamedate": "2022-01-10 08:25",
+        "League": "NFL",
+        "HomeTeam": "DB",
+        "AwayTeam": "KC",
+        "EventType": "schedule"
+    },
+    {
+        "Match": "260",
+        "round": "18",
+        "gamedate": "2022-01-10 08:25",
+        "League": "NFL",
+        "HomeTeam": "AC",
+        "AwayTeam": "SS",
+        "EventType": "schedule"
+    }
+]
