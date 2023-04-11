@@ -17,7 +17,7 @@ namespace TipIt.Implementations
 
         public TippingContext(bool explain = false)
         {
-            CurrentSeason = 2022;
+            CurrentSeason = 2023;
             _logger = new LoggerConfiguration()
                 .WriteTo.Console()
                 .WriteTo.File(
@@ -528,7 +528,8 @@ namespace TipIt.Implementations
                 Console.WriteLine("Loading Schedules ...");
             var leagueSched = new Dictionary<string, Dictionary<int, List<Game>>>();
             var eventStore = new ScheduleEventStore();
-            var events = (List<ScheduleEvent>)eventStore.Get<ScheduleEvent>("schedule");
+            var events = (List<ScheduleEvent>)eventStore
+                .Get<ScheduleEvent>("schedule");
             if (explain)
                 Console.WriteLine( $"{events.Count} schedule events found");
             foreach (var e in events)

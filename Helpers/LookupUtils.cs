@@ -9,75 +9,75 @@
             if (leagueCode == "NRL")
             {
                 if (teamCode == "TITN")
-                    return 12;
-                if (teamCode == "DRAG")
-                    return 25;
-                if (teamCode == "NQLD")
                     return 17;
+                if (teamCode == "DRAG")
+                    return 26;
+                if (teamCode == "NQLD")
+                    return 10;
                 if (teamCode == "NZW")
-                    return 15;
+                    return 18;
                 if (teamCode == "BULL")
-                    return 12;
+                    return 15;
                 if (teamCode == "NEWC")
-                    return 12;
+                    return 19;
                 if (teamCode == "PENR")
                     return 6;
                 if (teamCode == "WTIG")
-                    return 25;
+                    return 17;
                 if (teamCode == "BRIS")
-                    return 15;
-                if (teamCode == "SHRK")
                     return 11;
-                if (teamCode == "MANL")
-                    return 8;
-                if (teamCode == "PARR")
+                if (teamCode == "SHRK")
                     return 10;
+                if (teamCode == "MANL")
+                    return 15;
+                if (teamCode == "PARR")
+                    return 11;
                 if (teamCode == "CANB")
-                    return 12;
+                    return 13;
                 if (teamCode == "SSYD")
-                    return 8;
+                    return 9;
                 if (teamCode == "MELB")
-                    return 6;
+                    return 7;
                 if (teamCode == "SYDR")
-                    return 6;
+                    return 7;
                 return 0;
             }
             if (teamCode == "CARL")
-                return 17;
-            if (teamCode == "ESS")
-                return 13;
-            if (teamCode == "RICH")
                 return 10;
-            if (teamCode == "GEEL")
+            if (teamCode == "ESS")
+                return 17;
+            if (teamCode == "RICH")
                 return 9;
+            if (teamCode == "GEEL")
+                return 6;
             if (teamCode == "BL")
                 return 8;
             if (teamCode == "COLL")
-                return 19;
+                return 11;
             if (teamCode == "WCE")
-                return 12;
+                return 18;
             if (teamCode == "GWS")
-                return 12;
+                return 18;
             if (teamCode == "WB")
-                return 8;
+                return 12;
             if (teamCode == "HAW")
                 return 20;
             if (teamCode == "PORT")
-                return 16;
+                return 11;
             if (teamCode == "ADEL")
-                return 21;
+                return 17;
             if (teamCode == "NMFC")
-                return 25;
+                return 22;
             if (teamCode == "FRE")
-                return 16;
+                return 13;
             if (teamCode == "STK")
-                return 12;
+                return 16;
             if (teamCode == "SYD")
-                return 10;
+                return 8;
             if (teamCode == "MELB")
                 return 7;
             if (teamCode == "GCFC")
-                return 30;
+                return 16;
             return 0;
         }
 

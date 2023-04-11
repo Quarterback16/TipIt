@@ -147,7 +147,6 @@ namespace ScheduleService
 							|| game.AwayTeam.Equals(team))
 						{
 							result.Add(game);
-							break;
 						}
 					}
 				}
@@ -159,19 +158,15 @@ namespace ScheduleService
 		{
 			var leagues = new List<string>();
 			foreach (var item in LeagueSchedules)
-			{
 				leagues.Add(item.Key);
-			}
 			return leagues;
 		}
 
 		private string LeagueKey(
 			string league, 
 			int season)
-		{
-			return $"{league}:{season}";
-		}
-
+				=> $"{league}:{season}";
+		
 		public bool HasSeason(
 			string leagueCode, 
 			int season)

@@ -21,7 +21,8 @@ namespace TipIt.TippingStrategies
 			TippingContext context) : base(context)
 		{
 			Ratings = new Dictionary<string, NibbleRating>();
-		}
+
+        }
 
 		public string ShowTips(
 			string league,
@@ -49,6 +50,9 @@ namespace TipIt.TippingStrategies
                 league);
             RateResults(
                 league);
+			//HACK remove after 2023
+			//if (league == "NRL")
+   //             Ratings.Add("DOLP", new NibbleRating());  // new team
         }
 
         private void DumpMetrics()
