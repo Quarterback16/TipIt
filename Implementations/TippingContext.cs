@@ -15,7 +15,8 @@ namespace TipIt.Implementations
         private readonly ILogger _logger;
         public int CurrentSeason { get; set; }
 
-        public TippingContext(bool explain = false)
+        public TippingContext(
+            bool explain = false)
         {
             CurrentSeason = 2023;
             _logger = new LoggerConfiguration()
@@ -505,8 +506,9 @@ namespace TipIt.Implementations
         {
             var leagueDict = new Dictionary<string, List<Team>>();
             var eventStore = new TeamEventStore();
-            var teams = (List<AddTeamEvent>)eventStore.Get<AddTeamEvent>(
-                "add-team");
+            var teams = (List<AddTeamEvent>)eventStore
+                .Get<AddTeamEvent>(
+                    "add-team");
             foreach (var team in teams)
             {
                 var theTeam = new Team(team);

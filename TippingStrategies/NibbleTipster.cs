@@ -127,7 +127,9 @@ namespace TipIt.TippingStrategies
 				delegate (KeyValuePair<string, NibbleRating> pair1,
 				KeyValuePair<string, NibbleRating> pair2)
 				{
-					return pair2.Value.Total().CompareTo(pair1.Value.Total());
+					return pair2.Value.Total()
+						.CompareTo(
+							pair1.Value.Total());
 				});
 			var sb = new StringBuilder();
 			foreach (KeyValuePair<string,NibbleRating> pair in list)
