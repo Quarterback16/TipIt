@@ -17612,8 +17612,9 @@
         "Location": "McDonald Jones Stadium",
         "HomeTeam": "NEWC",
         "AwayTeam": "WTIG",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 34,
+        "AwayScore": 18,
+        "EventType": "result",
         "League": "NRL"
     },
     {
@@ -17623,8 +17624,9 @@
         "Location": "Belmore Sports Ground",
         "HomeTeam": "BULL",
         "AwayTeam": "BRIS",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 24,
+        "AwayScore": 44,
+        "EventType": "result",
         "League": "NRL"
     },
     {
@@ -17634,8 +17636,9 @@
         "Location": "4 Pines Park",
         "HomeTeam": "MANL",
         "AwayTeam": "NQLD",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 8,
+        "AwayScore": 19,
+        "EventType": "result",
         "League": "NRL"
     },
     {
@@ -17645,8 +17648,9 @@
         "Location": "Sydney Cricket Ground*",
         "HomeTeam": "SYDR",
         "AwayTeam": "MELB",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 16,
+        "AwayScore": 30,
+        "EventType": "result",
         "League": "NRL"
     },
     {
@@ -17656,8 +17660,9 @@
         "Location": "Mt Smart Stadium",
         "HomeTeam": "NZW",
         "AwayTeam": "SHRK",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 44,
+        "AwayScore": 12,
+        "EventType": "result",
         "League": "NRL"
     },
     {
@@ -17667,8 +17672,9 @@
         "Location": "Kayo Stadium",
         "HomeTeam": "DOLP",
         "AwayTeam": "PENR",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 14,
+        "AwayScore": 24,
+        "EventType": "result",
         "League": "NRL"
     },
     {
@@ -17678,8 +17684,9 @@
         "Location": "CommBank Stadium",
         "HomeTeam": "PARR",
         "AwayTeam": "TITN",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 25,
+        "AwayScore": 24,
+        "EventType": "result",
         "League": "NRL"
     },
     {
@@ -20033,8 +20040,9 @@
         "Location": "Marvel Stadium",
         "HomeTeam": "CARL",
         "AwayTeam": "PORT",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 122,
+        "AwayScore": 72,
+        "EventType": "result",
         "League": "AFL"
     },
     {
@@ -20044,8 +20052,9 @@
         "Location": "MCG",
         "HomeTeam": "COLL",
         "AwayTeam": "FRE",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 113,
+        "AwayScore": 67,
+        "EventType": "result",
         "League": "AFL"
     },
     {
@@ -20055,8 +20064,9 @@
         "Location": "GMHBA Stadium",
         "HomeTeam": "GEEL",
         "AwayTeam": "ESS",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 122,
+        "AwayScore": 45,
+        "EventType": "result",
         "League": "AFL"
     },
     {
@@ -20066,8 +20076,9 @@
         "Location": "Metricon Stadium",
         "HomeTeam": "GCFC",
         "AwayTeam": "STK",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 77,
+        "AwayScore": 51,
+        "EventType": "result",
         "League": "AFL"
     },
     {
@@ -20077,8 +20088,9 @@
         "Location": "MCG",
         "HomeTeam": "MELB",
         "AwayTeam": "BL",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 105,
+        "AwayScore": 104,
+        "EventType": "result",
         "League": "AFL"
     },
     {
@@ -20088,8 +20100,9 @@
         "Location": "Marvel Stadium",
         "HomeTeam": "NMFC",
         "AwayTeam": "HAW",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 40,
+        "AwayScore": 88,
+        "EventType": "result",
         "League": "AFL"
     },
     {
@@ -20099,8 +20112,9 @@
         "Location": "SCG",
         "HomeTeam": "SYD",
         "AwayTeam": "WB",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 78,
+        "AwayScore": 76,
+        "EventType": "result",
         "League": "AFL"
     },
     {
@@ -20110,8 +20124,9 @@
         "Location": "Adelaide Oval",
         "HomeTeam": "ADEL",
         "AwayTeam": "GWS",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 57,
+        "AwayScore": 71,
+        "EventType": "result",
         "League": "AFL"
     },
     {
@@ -20121,8 +20136,9 @@
         "Location": "Optus Stadium",
         "HomeTeam": "WCE",
         "AwayTeam": "RICH",
-        "Result": "",
-        "EventType": "schedule",
+        "HomeScore": 60,
+        "AwayScore": 98,
+        "EventType": "result",
         "League": "AFL"
     },
     {
