@@ -18,7 +18,7 @@ namespace TipIt.Implementations
         public TippingContext(
             bool explain = false)
         {
-            CurrentSeason = 2023;
+            CurrentSeason = 2024;
             _logger = new LoggerConfiguration()
                 .WriteTo.Console()
                 .WriteTo.File(

@@ -14,7 +14,7 @@ namespace TipIt.Implementations
         public ResultEventStore()
         {
             using var r = new StreamReader(
-                "e:/FileSync/SyncProjects/TipIt/results.json");
+                "d:/Dropbox/JSON/results.json");
             var json = r.ReadToEnd();
             Events = JsonConvert.DeserializeObject<List<ResultEvent>>(
                 json);
