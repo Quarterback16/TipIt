@@ -28,8 +28,7 @@ namespace ScheduleService
 
 		private void LoadSchedules()
 		{
-			// for each json schedule file found, load em in
-			//var path = @".\";
+			// for each json schedule file found, load em ALL in
 			var path = SchedulePath;
 			DirectoryInfo dir = new DirectoryInfo(path);
 			foreach (FileInfo fi in dir.GetFiles())
