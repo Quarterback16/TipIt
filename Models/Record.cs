@@ -16,14 +16,11 @@ namespace TipIt.Models
 
 		public decimal EasyPoints { get; set; }
 
-		public override string ToString()
-		{
-			return $@"{
+		public override string ToString() =>
+		
+			$@"{
 				StringUtils.StringOfSize(4,Name)
-				}: ({Wins,2}-{Losses,2}-{Draws,2}) {Percent(),5} {
-				EasyPoints
-				}";
-		}
+				}: ({Wins,2}-{Losses,2}-{Draws,2}) {Percent(),5} {EasyPoints,3}";
 
 		public string Percent()
 		{

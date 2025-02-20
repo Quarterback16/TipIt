@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using TipIt.Helpers;
@@ -40,19 +41,19 @@ namespace TipIt.TippingStrategies
 
         public void Rate(string league)
         {
-            AverageScore = Context.AverageScore(
-                leagueCode: league);
-            HomeFieldAdvantage = Context.HomeFieldAdvantage(
-                leagueCode: league);
-            MaxScore = Context.MaxScore(
-                league);
-            MinScore = Context.MinScore(
-                league);
-            RateResults(
-                league);
-			//HACK remove after 2023
-			//if (league == "NRL")
-   //             Ratings.Add("DOLP", new NibbleRating());  // new team
+            AverageScore = Context.AverageScore(leagueCode: league);
+			Debug.WriteLine($"{league} : Average Score: {AverageScore}");
+
+            HomeFieldAdvantage = Context.HomeFieldAdvantage(leagueCode: league);
+			Debug.WriteLine($"{league} : Homefield Advantage: {HomeFieldAdvantage}");
+
+            MaxScore = Context.MaxScore(league);
+			Debug.WriteLine($"{league} : Max Score: {MaxScore}");
+
+            MinScore = Context.MinScore(league);
+			Debug.WriteLine($"{league} : Min Score: {MinScore}");
+
+            Debug.WriteLine(RateResults(league));
         }
 
         private void DumpMetrics()
@@ -109,7 +110,9 @@ namespace TipIt.TippingStrategies
 			Console.WriteLine();
 			Console.WriteLine(
 				$"Ratings done on {gamesRated} games");
-			Console.WriteLine();
+			Debug.WriteLine(
+                $"Ratings done on {gamesRated} games");
+            Console.WriteLine();
 			return DumpRatings(
 				leagueCode);
         }
